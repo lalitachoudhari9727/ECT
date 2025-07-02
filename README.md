@@ -2,6 +2,24 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.4.
 
+JavaScript
+src/app/utils/helpers.ts -This file contains all first 3 javaScript questions solutions.
+src/app/utils/helpers.spec.ts -This file contains unit test cases for first 3 javaScript problems.
+
+Angular
+src/app/pipes/sortpipe-pipe.ts - This file contains CustomSort pipe functionality.
+src/app/pipes/sortpipe-pipe.spec.ts - This file contains its respective unit test cases.
+
+src/app/components/repeater - This folder contains repeater component.
+
+I have maintained constants and interfaces files for object,array values and for type.
+src/app/constants.ts - This file contains object and array values.
+src/app/interfaces.ts - This file contains interfaces
+
+Component,pipe and javaScript functions has been called from  src/app/app.ts
+
+
+
 ## Development server
 
 To start a local development server, run:
